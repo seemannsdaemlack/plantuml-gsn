@@ -1,5 +1,17 @@
-# 🌱 PlantUML
+# 🌱 PlantUML-GSN
+PlantUML with support for GSN symbols
+see [GSN](https://scsc.uk/gsn?page=gsn%203nutshell)
 
+- 🧩 GSN Diagram
+  - Goal
+  - Context
+  - Solution
+  - Stategy
+  - Assumption
+  - Justification
+
+
+# 🌱 PlantUML
 Generate UML diagrams from textual descriptions.
 
 [![Discord server](https://img.shields.io/discord/1083727021328306236?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/sXhzexAQGh)
@@ -85,7 +97,7 @@ To build PlantUML from source, you'll need to have certain prerequisites install
 
 PlantUML is an open-source project, and we welcome contributions of all kinds. Whether you're helping us fix bugs, improve the docs, or spread the word, we appreciate your support. See our [contributing guide](CONTRIBUTING.md) for more information on how to get started.
 
-For comprehensive and detailed documentation on using PlantUML, refer to the [official Javadoc, available here](https://plantuml.github.io/plantuml/). Please note that this documentation is a work in progress and may not be complete. 
+For comprehensive and detailed documentation on using PlantUML, refer to the [official Javadoc, available here](https://plantuml.github.io/plantuml/). Please note that this documentation is a work in progress and may not be complete.
 
 ## 🧑‍🤝‍🧑 Support and Community
 
